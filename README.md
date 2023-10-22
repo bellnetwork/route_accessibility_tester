@@ -8,7 +8,7 @@
     Installation
     Clone the repository:
 
-    git clone https://github.com/BellSecurity/route-accessibility-tester.git
+    git clone [https://github.com/BellSecurity/route-accessibility-tester.git](https://github.com/bellnetwork/route_accessibility_tester.git)
 
     Navigate to the directory:
     cd route-accessibility-tester
